@@ -1,5 +1,5 @@
 # XF.KeepAlive
-Xamarin.Android 保护方案, AndroidX 快速实现
+Xamarin.Android 保活方案, AndroidX 快速实现
 
 ```csharp
 public override void OnCreate()
